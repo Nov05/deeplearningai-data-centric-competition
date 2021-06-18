@@ -69,7 +69,7 @@ Go into the web interface terminal (click the show terminal button on the right 
 `cl add bundle data-centric-utils//label_book`
 
 **Step 3: Make a run bundle to get predictions on the label book**    
-Next, train the standard model on your submission data to make predictions on the label book. Use the following command in the web interface terminal:
+Next, train the standard model on your submission data to make predictions on the label book. Use the following command in the web interface terminal:   
 `cl run :train.py :<submission-file-name> :label_book 'python train.py <submission-file-name> label_book' -n run-train --request-docker-image jupyter/tensorflow-notebook`  
 
 Be sure to change the <submission-file-name> field to the name of your folder. For example, for if you uploaded a zip file named sample_submission.zip, you would change the fields to sample_submission:    
@@ -79,7 +79,6 @@ You should see a run-bundle like the following appended to the contents of your 
 * run-predict2   
 
 **Step 4: Extract predictions file**   
-
 Next, extract out the predictions file into a bundle of its own. Run the following command in your web interface terminal:   
 `cl make run-train/predictions.json -n <your-submission-name>`    
 
@@ -87,7 +86,6 @@ Your <your-submission-name> should not contain spaces (avoid using special chara
 * sample-submission   
 
 **Step 5: Tag your submission and add description**    
-
 You're almost there! Give your submission a description. You must have a description for proper submission! First, click into the <your-submission-name> bundle by clicking the small arrow next to the uuid and modify the Description field on the right sidebar.   
 
 Please use the following convention for the bundle description to identify your submission on the leaderboard:    
