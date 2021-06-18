@@ -30,6 +30,8 @@ Submissions will be evaluated according to two categories:
 
 First, download the dataset by clicking into the bundle (click the uuid 0xcea1d7) and press the download button. The dataset contains ~3000 images of handwritten roman numerals 1-10. Your task is to optimize model performance by improving the dataset and making training and validation splits.
 
+![dataset samples](https://github.com/Nov05/deeplearningai-data-centric-competition/blob/97c42ccfa63fc30f53b783a0df10eea9996d3daa/images/dataset_samples.png)
+
 Your submission should have the following file structure, with your training and validation data split into different folders. You can rename sample_submission whatever you like, but the file structure and names inside must match the following:   
 ```
 sample_submission/
