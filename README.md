@@ -17,6 +17,8 @@ A collaboration between DeepLearning.AI and Landing AI, the Data-Centric AI Comp
 
 In this tutorial, we will cover the process of submitting your dataset and results for official evaluation on the Data-Centric AI Competition. Once your dataset has been evaluated officially, your scores will be added to the[**【leaderboard】**](https://landing-ai.github.io/data-centric-comp/). Before we begin, please create a CodaLab Worksheets account. Be sure to create a[**【CodaLab Worksheets account】**](https://worksheets-dev.codalab.org/), not to be confused with a standard CodaLab account.   
 
+![leader board](https://github.com/Nov05/deeplearningai-data-centric-competition/blob/20217a8ba3b661d4796cd2f776f1e0fbc12c5950/images/leader%20borad.jpg)
+
 ### Rules
 * Maximum 5 submissions per week (65 total over the course of the competition)  
 * Submission must have less than 10,000 images combined in training and validation  
