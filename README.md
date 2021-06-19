@@ -121,6 +121,9 @@ For new Discourse users, please click [here](http://bit.ly/dlai-competition) to 
 For existing users, please click [here](https://discourse.deeplearning.ai/g) to log in, find the **"Data-centric AI Competition Participants"** group and join.    
 
 
+  
+
+
 
 
  
