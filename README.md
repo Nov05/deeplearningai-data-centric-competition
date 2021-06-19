@@ -1,5 +1,7 @@
 # deeplearningai-data-centric-competition
 
+![title](https://github.com/Nov05/deeplearningai-data-centric-competition/blob/bb77e84c77bd41d1374ae32512b2bc08f10f7edb/images/Data-Centric%20AI%20Competition.jpg)  
+
 ## About the competition
 
 https://https-deeplearning-ai.github.io/data-centric-comp/  
@@ -107,6 +109,18 @@ Fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScpcF8UNtYK
 ### More Information   
 
 If you have any questions or want to form teams with others, join us on Discourse. Use [this link](http://bit.ly/dlai-competition) to join if you are a new user, and [this link](https://discourse.deeplearning.ai/g) if you are an existing user.    
+
+Check out Andrew Ng's talk on shifting from a Model-Centric approach to a Data-Centric approach to AI: [MLOps: From Model-centric to Data-centric AI](https://www.youtube.com/watch?v=06-AZXmwHjo).    
+
+### Have Questions?
+
+Join us on Discourse to ask us questions and connect with other competitors!   
+
+For new Discourse users, please click [here](http://bit.ly/dlai-competition) to create an account. After you sign in, you’ll find a “Competitions” category on the home page;   
+
+For existing users, please click [here](https://discourse.deeplearning.ai/g) to log in, find the **"Data-centric AI Competition Participants"** group and join.    
+
+
 
 
  
