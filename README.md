@@ -71,8 +71,8 @@ Name it whatever you like, and upload your submission folder by clicking the upl
 
 **Step 2: Copy standard bundles into your worksheet**    
 Go into the web interface terminal (click the show terminal button on the right side of the toolbar) and enter the following commands:   
-`cl add bundle data-centric-utils//train.py `
-`cl add bundle data-centric-utils//label_book`
+`cl add bundle data-centric-utils//train.py `   
+`cl add bundle data-centric-utils//label_book`   
 
 **Step 3: Make a run bundle to get predictions on the label book**    
 Next, train the standard model on your submission data to make predictions on the label book. Use the following command in the web interface terminal:   
