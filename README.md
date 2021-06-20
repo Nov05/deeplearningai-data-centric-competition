@@ -91,6 +91,8 @@ Next, extract out the predictions file into a bundle of its own. Run the followi
 Your <your-submission-name> should not contain spaces (avoid using special characters too). For example: cl make run-train/predictions.json -n sample-submission. You should see a bundle like the following appended to the contents of your worksheet:   
 * sample-submission   
 
+![codalab worksheets](https://github.com/Nov05/deeplearningai-data-centric-competition/blob/db48907a6420c4daf333d71f672658ba0d06c2c1/images/CodaLab%20Worksheets.jpg) 
+
 **Step 5: Tag your submission and add description**    
 You're almost there! Give your submission a description. You must have a description for proper submission! First, click into the <your-submission-name> bundle by clicking the small arrow next to the uuid and modify the Description field on the right sidebar.   
 
